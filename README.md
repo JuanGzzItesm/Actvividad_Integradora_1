@@ -12,11 +12,12 @@ Para iniciar con este programa, se necesita primero instalar los siguientes paqu
 - Requests
 - Beautiful Soup
 
-Para realizar la instalación, se debe incluir el siguiente código:
+Para realizar la instalación, se puede abrir la termina y ejecutar los siguientes comandos
 ```
-!pip3 install requests
-!pip3 install beautifulsoup4
+python3 pip install requests
+python3 pip install beautifulsoup4
 ```
+En todo caso, el jupyter notebook cuenta con una celda en la que se ejecutan estos comandos.
 
 ## Información adicional
 Si se cuenta con alguna duda o comentario, se puede contactar con los creadores del programa. Estos son:
